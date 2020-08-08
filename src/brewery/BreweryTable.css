@@ -1,0 +1,10 @@
+.table-row{
+    background: white;
+
+}
+
+.table-position{
+    position: absolute;
+    left: 600px;
+    top: 150px;
+}
